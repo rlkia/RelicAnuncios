@@ -6,7 +6,7 @@ Um simples plugin de anúncios.
 - Suporta da 1.8 até a 1.21.4
 - Totalmente otimizado
 - Totalmente configurável
-- Funciona com menu (/anunciar)
+- Funciona com menu (/anunciar) - Para usar precisa da permissão relicanuncios.anunciar.use
 - Pode escolher uma quantia de money necessária para fazer um anúncio (Configurável na config.yml)
   
 ## Comandos
@@ -17,3 +17,4 @@ Um simples plugin de anúncios.
 
 - Vault - Última versão disponível
 - Plugin de Economia
+- RelicPlugins - Última versão disponível
