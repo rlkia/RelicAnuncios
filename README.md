@@ -18,3 +18,7 @@ Um simples plugin de anúncios.
 - Vault - Última versão disponível
 - Plugin de Economia
 - RelicPlugins - Última versão disponível
+
+## Dependências (Opcionais)
+
+- RelicDiscord
